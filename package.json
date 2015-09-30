@@ -16,7 +16,8 @@
   "keywords": [
     "react",
     "redux",
-    "hapi"
+    "hapi",
+    "babel"
   ],
   "author": "Ryan McDonald",
   "license": "ISC",
