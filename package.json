@@ -1,0 +1,36 @@
+{
+  "name": "redux-example",
+  "version": "0.1.0",
+  "engines": {
+    "node": "^0.10.0"
+  },
+  "description": "Testing out the redux framework for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RyanPMcD/redux-example.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "hapi"
+  ],
+  "author": "Ryan McDonald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanPMcD/redux-example/issues"
+  },
+  "homepage": "https://github.com/RyanPMcD/redux-example",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "gulp": "^3.9.0",
+    "hapi": "^10.1.0",
+    "react": "^0.13.3",
+    "react-redux": "^3.0.1",
+    "redux": "^3.0.2",
+    "webpack": "^1.12.2"
+  }
+}
